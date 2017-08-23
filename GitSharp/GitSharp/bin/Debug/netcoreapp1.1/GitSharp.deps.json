@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "871eefced9e8ca736f44c8cdd56a538b56c8939a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "gitsharp/1.0.0": {
+        "dependencies": {
+          "LibGit2Sharp.Portable": "0.24.10"
+        },
+        "runtime": {
+          "GitSharp.dll": {}
+        }
+      },
+      "libgit2sharp.nativebinaries/1.0.165": {
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libgit2-1196807.so": {
+            "rid": "linux-x64",
+            "assetType": "native"
+          },
+          "runtimes/osx/native/libgit2-1196807.dylib": {
+            "rid": "osx",
+            "assetType": "native"
+          },
+          "runtimes/win7-x64/native/git2-1196807.dll": {
+            "rid": "win7-x64",
+            "assetType": "native"
+          },
+          "runtimes/win7-x64/native/git2-1196807.pdb": {
+            "rid": "win7-x64",
+            "assetType": "native"
+          },
+          "runtimes/win7-x86/native/git2-1196807.dll": {
+            "rid": "win7-x86",
+            "assetType": "native"
+          },
+          "runtimes/win7-x86/native/git2-1196807.pdb": {
+            "rid": "win7-x86",
+            "assetType": "native"
+          }
+        }
+      },
+      "libgit2sharp.portable/0.24.10": {
+        "dependencies": {
+          "LibGit2Sharp.NativeBinaries": "1.0.165"
+        },
+        "runtime": {
+          "lib/netstandard1.3/LibGit2Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gitsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "libgit2sharp.nativebinaries/1.0.165": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PcpGwe1HS0wSPAY5gujyYXXIZSznaIUFXSVQjgNE/qx2F9eJ0cYeZWAwfwcTL2IlkrHI6ZK8ZPRwMcEGMSdRdg==",
+      "path": "libgit2sharp.nativebinaries/1.0.165",
+      "hashPath": "libgit2sharp.nativebinaries.1.0.165.nupkg.sha512"
+    },
+    "libgit2sharp.portable/0.24.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dwm0SZbUceIiRJi4uQge0I3ioGVZGXX7lta89YXmjFWFQ1wFZ7GQRs4KUAJcWglYnCbUumd01P8HIFGC0dn/Ug==",
+      "path": "libgit2sharp.portable/0.24.10",
+      "hashPath": "libgit2sharp.portable.0.24.10.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\GitSharp.deps.json
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\GitSharp.runtimeconfig.json
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\GitSharp.runtimeconfig.dev.json
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\GitSharp.dll
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\GitSharp.pdb
+C:\dev\scratch\GitSharp\GitSharp\obj\Debug\netcoreapp1.1\GitSharp.csprojResolveAssemblyReference.cache
+C:\dev\scratch\GitSharp\GitSharp\obj\Debug\netcoreapp1.1\GitSharp.csproj.CoreCompileInputs.cache
+C:\dev\scratch\GitSharp\GitSharp\obj\Debug\netcoreapp1.1\GitSharp.AssemblyInfo.cs
+C:\dev\scratch\GitSharp\GitSharp\obj\Debug\netcoreapp1.1\GitSharp.dll
+C:\dev\scratch\GitSharp\GitSharp\obj\Debug\netcoreapp1.1\GitSharp.pdb
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\lib\win32\x64\git2-1196807.dll
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\lib\win32\x64\git2-1196807.pdb
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\lib\win32\x86\git2-1196807.dll
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\lib\win32\x86\git2-1196807.pdb
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\lib\osx\libgit2-1196807.dylib
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\lib\linux\x86_64\libgit2-1196807.so
+C:\dev\scratch\GitSharp\GitSharp\bin\Debug\netcoreapp1.1\LibGit2Sharp.dll.config
